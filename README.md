@@ -1,4 +1,2 @@
-This project is all about CISCO Borrowing System.
-The user will be asked if he wants to return or borrow equipments. 
-There are two buttons shown in the first window namely the "Borrow" and "Return" button.
-# TRIO_COE125_C1_PROJECT
+#CISCO Borrowing System
+This project is a system that lets the user choose between returning or borrowing the equipments in the CISCO Laboratory. 
