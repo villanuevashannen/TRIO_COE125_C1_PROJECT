@@ -1,5 +1,6 @@
 SPRINT 3
-
+Go to the directory of the project file
+    cd Documents/TRIO_COE125_C1_PROJECT-master/SOURCE/BLL/python Link.py
 
 #CISCO Borrowing System ->
 This project is a system that lets the user choose between returning or borrowing the equipments in the CISCO Laboratory. 
